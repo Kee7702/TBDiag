@@ -38,7 +38,6 @@ self.addEventListener('install', (event) => {
     caches.open('azwcache').then((cache) => {
       return cache.addAll([
         './index.html',
-        './img/automation.png',
       ]);
     })
   );
@@ -55,7 +54,6 @@ self.addEventListener('fetch', function (event) {
   event.respondWith(
     cacheAndRespond({
       request: event.request,
-      fallbackUrl: './img/automation.png'
     })
   );
 
