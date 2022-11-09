@@ -1,17 +1,9 @@
-// listen for requests
-self.addEventListener('fetch', function (event) {
-  // Get the request
-  var request = event.request;
-  console.log(event.request);
-  // Pass the request to the network
-  const responseFromNetwork = fetch(request);
-  // Clone the response
-  const responseFromNetworkClone = responseFromNetwork.clone()
-  // Pass the response back to the browser
-  event.respondWith(responseFromNetworkClone);
-});
+//
+// helper methods
+//
+
 const putInCache = async (request, response) => {
-  const cache = await caches.open('testcache');
+  const cache = await caches.open('azwcache');
   await cache.put(request, response);
 };
 
@@ -37,3 +29,34 @@ const cacheAndRespond = async ({ request, fallbackUrl }) => {
     });
   }
 };
+
+//install
+
+self.addEventListener('install', (event) => {
+  console.log('installing sw')
+  event.waitUntil(
+    caches.open('azwcache').then((cache) => {
+      return cache.addAll([
+        './index.html',
+        './img/automation.png',
+      ]);
+    })
+  );
+});
+
+// listen for requests
+self.addEventListener('fetch', function (event) {
+
+	// Bug fix
+	// https://stackoverflow.com/a/49719964
+	if (event.request.cache === 'only-if-cached' && event.request.mode !== 'same-origin') return;
+
+
+  event.respondWith(
+    cacheAndRespond({
+      request: event.request,
+      fallbackUrl: './img/automation.png'
+    })
+  );
+
+});
