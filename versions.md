@@ -3,4 +3,4 @@ description: Toolbox has issues, as every app or game does. Toolbox Diagnostic D
 color: '#62d667'
 ---
 ## Minecraft Version List
-<div class="changelog-container"><div><i class="material-icons">videogame_asset</i><h3 id="mcversioncount">Minecraft</h3></div><div style="display: inherit;" id="mcversion"></div></div>
+<div class="filedownload-container" id="loading-versions"><div class="nbt-filedownload"><i class="material-icons">loop</i><a>Loading Versions...</a></div></div><div class="changelog-container"><div><i class="material-icons">videogame_asset</i><h3 id="mcversioncount">Minecraft</h3></div><div style="display: inherit;" id="mcversion"></div></div>
