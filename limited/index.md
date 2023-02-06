@@ -50,13 +50,6 @@ color: '#e1963f'
       <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#267f00</p>
     </a>
     <div class="home-content-container" style="justify-content:left">
-      <style>
-        .changelog-container>div>div>img {
-          margin: 4px;
-          height: 72px;
-          image-rendering: pixelated
-        }
-      </style>
       <img src="./upload/xmas220.png">
       <img src="./upload/xmas221.gif">
       <img src="./upload/xmas222.png">
@@ -83,13 +76,6 @@ color: '#e1963f'
       <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#29292c</p>
     </a>
     <div class="home-content-container" style="justify-content:left">
-      <style>
-        .changelog-container>div>div>img {
-          margin: 4px;
-          height: 72px;
-          image-rendering: pixelated
-        }
-      </style>
       <img src="./upload/spook220.png">
       <img src="./upload/spook221.png">
     </div>
@@ -115,13 +101,6 @@ color: '#e1963f'
       <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#e00202</p>
     </a>
     <div class="home-content-container" style="justify-content:left">
-      <style>
-        .changelog-container>div>div>img {
-          margin: 4px;
-          height: 72px;
-          image-rendering: pixelated
-        }
-      </style>
       <img src="./upload/xmas210.png">
       <img src="./upload/xmas211.gif">
     </div>
@@ -152,14 +131,14 @@ color: '#e1963f'
   <h3>April Fools 2021</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
-      <style>
-        .changelog-container>div>div>img {
-          margin: 4px;
-          height: 72px;
-          image-rendering: pixelated
-        }
-      </style>
       <img src="./upload/fools210.gif">
     </div>
   </div>
 </div>
+<style>
+  .changelog-container>div>div>img {
+    margin: 4px;
+    height: 72px;
+    image-rendering: pixelated
+  }
+</style>
