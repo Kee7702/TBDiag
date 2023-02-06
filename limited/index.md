@@ -1,7 +1,7 @@
 ---
 embedIcon: '/limited/upload/banner20.png'
 headInsert: '<meta name="twitter:card" content="summary_large_image">'
-description: Toolbox has had many special roles and assets for their Discord server, whether it be seasonal or a member milestone. These colors and images are likely to never be seen again, unless archived as they happen, or at least soon enough that not all is lost.
+description: The Official Toolbox Discord has had many roles and assets, whether that be seasonal or to celebrate important milestones. It's likely that none of these colors would ever be known again without archival.
 color: '#e1963f'
 ---
 ## Toolbox Archived Media
