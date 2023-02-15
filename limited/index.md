@@ -28,6 +28,10 @@ color: '#e1963f'
       <p class="dreamsdb infotitle" style="color: var(--color);">Hunger Games Hero</p>
       <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#1f9409</p>
     </a>
+    <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #f1c40f;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">PVP King</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#f1c40f</p>
+    </a>
   </div>
 </div>
 <div class="changelog-container">
