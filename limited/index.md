@@ -86,6 +86,33 @@ color: '#e1963f'
   </div>
 </div>
 <div class="changelog-container">
+  <h3>2022 Level Roles</h3>
+  <div>
+    <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #865f04;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Wood</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#865f04</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background: #000;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #646464;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Stone</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#646464</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #dadada;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Iron</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#dadada</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #ffcf00;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Gold</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#ffcf00</p>
+    </a>
+  <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #28eed3;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Diamond</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#28eed3</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #ccc;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #3a3131;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Netherite</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#3a3131</p>
+    </a></div>
+</div>
+<div class="changelog-container">
   <h3>Christmas 2021</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #ffffff;">
@@ -138,6 +165,33 @@ color: '#e1963f'
       <img src="./upload/fools210.gif">
     </div>
   </div>
+</div>
+<div class="changelog-container">
+  <h3>2021 Level Roles</h3>
+  <div>
+    <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #949494;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Common</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#949494</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #00cf2a;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Uncommon</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#00cf2a</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #005cff;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Rare</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#005cff</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #892aff;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Epic</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#892aff</p>
+    </a>
+  <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #ffb500;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Legendary</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#ffb500</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #e73500;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Mythic</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#e73500</p>
+    </a></div>
 </div>
 <style>
   .changelog-container>div>div>img {
