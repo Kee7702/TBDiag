@@ -6,6 +6,17 @@ color: '#e1963f'
 ---
 ## Toolbox Archived Media
 <div class="changelog-container">
+  <h3>General Archives</h3>
+  <div>
+    <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #62d667;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Toolbox Helper</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#62d667</p>
+    </a><div class="home-content-container" style="justify-content:left">
+      <img src="./upload/garoleiconhelper.png">
+    </div>
+  </div>
+</div>
+<div class="changelog-container">
   <h3>Toolbox Events</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #e74c3c;">
