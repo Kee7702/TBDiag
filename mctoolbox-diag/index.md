@@ -1,5 +1,5 @@
 ---
-headInsert: '<meta http-equiv="Refresh" content="3; url='mctoolbox://diag'">'
+headInsert: <meta http-equiv="Refresh" content="3; url='mctoolbox://diag'">
 description: Toolbox has a diagnostic feature. This is an alternative place to access it if the page is unavailable.
 color: '#62d667'
 ---
