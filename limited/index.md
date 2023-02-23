@@ -8,6 +8,13 @@ color: '#e1963f'
 <div class="changelog-container">
   <h3>General Archives</h3>
   <div>
+    <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #00bc88;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">VIP</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#00bc88</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #bdee7a;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Premium</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#bdee7a</p>
+    </a>
     <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #62d667;">
       <p class="dreamsdb infotitle" style="color: var(--color);">Toolbox Helper</p>
       <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#62d667</p>
