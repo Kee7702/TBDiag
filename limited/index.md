@@ -5,13 +5,6 @@ description: The Official Toolbox Discord has had many roles and assets, whether
 color: '#e1963f'
 ---
 ## Toolbox Archived Media
----
-embedIcon:'/limited/upload/banner20.png'
-headInsert:'<meta name="twitter:card" content="summary_large_image">'
-description:The Official Toolbox Discord has had many roles and assets, whether that be seasonal or to celebrate important milestones. It's likely that none of these colors would ever be known again without archival.
-color:'#e1963f'
----
-## Toolbox Archived Media
 <div class="changelog-container">
   <h3>General Archives</h3>
   <div>
