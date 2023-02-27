@@ -265,6 +265,36 @@ color: '#e1963f'
     </a></div>
 </div>
 <div class="changelog-container">
+  <h3>Colored Roles</h3>
+  <div>
+    <a class="home-content-container" style="border-radius:8px;background: #eee;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #282828;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Pastel Black</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#282828</p>
+    </a>
+  <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #e37ce7;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Pastel Pink</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#e37ce7</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #6e84ff;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Pastel Blue</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#6e84ff</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #a6efef;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Pastel Cyan</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#a6efef</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #aced98;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Pastel Green</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#aced98</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #f3ffa2;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Pastel Yellow</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#f3ffa2</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #ee936a;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Pastel Orange</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#ee936a</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #e66c6c;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">Pastel Red</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#e66c6c</p>
+    </a></div>
+</div>
+<div class="changelog-container">
   <h3>Toolbox 2021</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
