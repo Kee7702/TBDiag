@@ -211,6 +211,42 @@ color: '#e1963f'
       <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#e73500</p>
     </a></div>
 </div>
+<div class="changelog-container">
+  <h3>Staff Colored Roles</h3>
+  <div>
+    <a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #2ed676;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">STAFF Matrix Green</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#2ed676</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #ff1044;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">STAFF Red</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#ff1044</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #ff6800;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">STAFF Orange</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#ff6800</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #c8ff50;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">STAFF Yellow</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#c8ff50</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #8fff3f;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">STAFF Green</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#8fff3f</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #254cff;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">STAFF Blue</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#254cff</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #8000ff;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">STAFF Violet</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#8000ff</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #ff00e6;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">STAFF Pink</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#ff00e6</p>
+    </a><a class="home-content-container" style="border-radius:8px;background: #111;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #fff;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">STAFF White</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#ffffff</p>
+    </a>
+  <a class="home-content-container" style="border-radius:8px;background: #eee;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height: 0;--color: #181818;">
+      <p class="dreamsdb infotitle" style="color: var(--color);">STAFF Black</p>
+      <p class="dreamsdb infostats" style="display: block;line-height: 16px;margin: 0;color: var(--color);">#181818</p>
+    </a></div>
+</div>
 <style>
   .changelog-container>div>div>img {
     margin: 4px;
