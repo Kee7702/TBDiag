@@ -1,0 +1,35 @@
+
+<!doctype html>
+<html>
+  <head>
+    <title>Toolbox Diagnostics</title>
+    <style>
+      html, body {
+        font-family: sans-serif;
+        text-align: center;
+      }
+      #linkContainer a {
+        margin-top: 32px;
+        display: block;
+        background: #05a630;
+        color: #fff;
+        font-size: 32px;
+        padding: 48px 12px;
+        border-radius: 24px;
+        text-decoration: none;
+      }
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <h1>Toolbox Diagnostics</h1>
+    <p>Toolbox can be started with diagnostic options. Click the button below to open the app's diagnostic interface.</p>
+    <div id="linkContainer"></div>
+    <script>
+      var a = document.createElement('a');
+      a.href = "mctoolbox://diag" + window.location.search;
+      a.textContent = "Open Toolbox";
+      document.getElementById("linkContainer").appendChild(a);
+    </script>
+  </body>
+</html>
