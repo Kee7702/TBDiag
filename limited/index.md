@@ -55,6 +55,14 @@ color: '#e1963f'
   </div>
 </div>
 <div class="changelog-container">
+  <h3>Pride Month 2023</h3>
+  <div>
+    <div class="home-content-container" style="justify-content:left">
+      <img src="./upload/pride231.png">
+    </div>
+  </div>
+</div>
+<div class="changelog-container">
   <h3>Toolbox 2023</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
