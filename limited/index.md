@@ -21,7 +21,7 @@ color: '#e1963f'
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#62d667</p>
     </a>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/garoleiconhelper.png">
+      <img src="./upload/garoleiconhelper.png" loading="lazy">
     </div>
   </div>
 </div>
@@ -58,7 +58,7 @@ color: '#e1963f'
   <h3>Anthrocon 2023</h3>
   <h4>* This server icon was never actually used and was made simply as a joke, however I still believe archival is important, so even this should be archived.</h4><div>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/anthro230.png">
+      <img src="./upload/anthro230.png" loading="lazy">
     </div>
   </div>
 </div>
@@ -66,7 +66,7 @@ color: '#e1963f'
   <h3>Pride Month 2023</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/pride231.png">
+      <img src="./upload/pride231.png" loading="lazy">
     </div>
   </div>
 </div>
@@ -74,10 +74,10 @@ color: '#e1963f'
   <h3>Toolbox 2023</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/tb230.png">
-      <img src="./upload/tb231.png">
-      <img src="./upload/tb232.png">
-      <img src="./upload/tb233.png">
+      <img src="./upload/tb230.png" loading="lazy">
+      <img src="./upload/tb231.png" loading="lazy">
+      <img src="./upload/tb232.png" loading="lazy">
+      <img src="./upload/tb233.png" loading="lazy">
     </div>
   </div>
 </div>
@@ -101,9 +101,9 @@ color: '#e1963f'
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#267f00</p>
     </a>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/xmas220.png">
-      <img src="./upload/xmas221.gif">
-      <img src="./upload/xmas222.png">
+      <img src="./upload/xmas220.png" loading="lazy">
+      <img src="./upload/xmas221.gif" loading="lazy">
+      <img src="./upload/xmas222.png" loading="lazy">
     </div>
   </div>
 </div>
@@ -127,8 +127,8 @@ color: '#e1963f'
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#29292c</p>
     </a>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/spook220.png">
-      <img src="./upload/spook221.png">
+      <img src="./upload/spook220.png" loading="lazy">
+      <img src="./upload/spook221.png" loading="lazy">
     </div>
   </div>
 </div>
@@ -165,8 +165,8 @@ color: '#e1963f'
   <h3>Toolbox 2022</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/tb220.png">
-      <img src="./upload/tb221.png">
+      <img src="./upload/tb220.png" loading="lazy">
+      <img src="./upload/tb221.png" loading="lazy">
     </div>
   </div>
 </div>
@@ -190,8 +190,8 @@ color: '#e1963f'
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#e00202</p>
     </a>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/xmas210.png">
-      <img src="./upload/xmas211.gif">
+      <img src="./upload/xmas210.png" loading="lazy">
+      <img src="./upload/xmas211.gif" loading="lazy">
     </div>
   </div>
 </div>
@@ -220,7 +220,7 @@ color: '#e1963f'
   <h3>April Fools 2021</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/fools210.gif">
+      <img src="./upload/fools210.gif" loading="lazy">
     </div>
   </div>
 </div>
@@ -343,8 +343,8 @@ color: '#e1963f'
   <h3>Toolbox 2021</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/tb210.png">
-      <img src="./upload/tb211.png">
+      <img src="./upload/tb210.png" loading="lazy">
+      <img src="./upload/tb211.png" loading="lazy">
     </div>
   </div>
 </div>
@@ -352,7 +352,7 @@ color: '#e1963f'
   <h3>Toolbox 2020</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/tb200.png">
+      <img src="./upload/tb200.png" loading="lazy">
     </div>
   </div>
 </div>
@@ -360,7 +360,7 @@ color: '#e1963f'
   <h3>Toolbox 2019</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/tb190.png">
+      <img src="./upload/tb190.png" loading="lazy">
     </div>
   </div>
 </div>
