@@ -55,6 +55,14 @@ color: '#e1963f'
   </div>
 </div>
 <div class="changelog-container">
+  <h3>Anthrocon 2023</h3>
+  <h4>* This server icon was never actually used and was made simply as a joke, however I still believe archival is important, so even this should be archived.</h4><div>
+    <div class="home-content-container" style="justify-content:left">
+      <img src="./upload/anthro230.png">
+    </div>
+  </div>
+</div>
+<div class="changelog-container">
   <h3>Pride Month 2023</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
