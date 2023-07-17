@@ -5,7 +5,7 @@ description: The Official Toolbox Discord has had many roles and assets, whether
 color: '#e1963f'
 ---
 ## Toolbox Archived Media
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>General Archives</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#00bc884d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#00bc88">
@@ -25,7 +25,7 @@ color: '#e1963f'
     </div>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Toolbox Events</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#e74c3c4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#e74c3c">
@@ -54,7 +54,7 @@ color: '#e1963f'
     </a>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>2023 Level Roles</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background: #85684a4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color: #85684a;">
@@ -83,7 +83,7 @@ color: '#e1963f'
     </a>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Pride Month 2023</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
@@ -91,7 +91,7 @@ color: '#e1963f'
     </div>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Toolbox 2023</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
@@ -102,7 +102,7 @@ color: '#e1963f'
     </div>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Christmas 2022</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#f8ecec4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#f8ecec">
@@ -128,7 +128,7 @@ color: '#e1963f'
     </div>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Halloween 2022</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#ff7d254d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ff7d25">
@@ -153,7 +153,7 @@ color: '#e1963f'
     </div>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>2022 Level Roles</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#865f044d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#865f04">
@@ -182,7 +182,7 @@ color: '#e1963f'
     </a>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Toolbox 2022</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
@@ -191,7 +191,7 @@ color: '#e1963f'
     </div>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Christmas 2021</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#ffffff4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ffffff">
@@ -216,7 +216,7 @@ color: '#e1963f'
     </div>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>50k Event Roles</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#51e8cb4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#51e8cb">
@@ -237,7 +237,7 @@ color: '#e1963f'
     </a>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>April Fools 2021</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
@@ -245,7 +245,7 @@ color: '#e1963f'
     </div>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>2021 Level Roles</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#9494944d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#949494">
@@ -274,7 +274,7 @@ color: '#e1963f'
     </a>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Staff Colored Roles</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#2ed6764d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#2ed676">
@@ -319,7 +319,7 @@ color: '#e1963f'
     </a>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Colored Roles</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#e66c6c4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#e66c6c">
@@ -360,7 +360,7 @@ color: '#e1963f'
     </a>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Toolbox 2021</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
@@ -369,7 +369,7 @@ color: '#e1963f'
     </div>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Toolbox 2020</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
@@ -377,7 +377,7 @@ color: '#e1963f'
     </div>
   </div>
 </div>
-<div class="changelog-container">
+<div class="changelog-container" style="background:#000">
   <h3>Toolbox 2019</h3>
   <div>
     <div class="home-content-container" style="justify-content:left">
