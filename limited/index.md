@@ -17,12 +17,29 @@ color: '#e1963f'
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#bdee7a</p>
     </a>
     <a class="home-content-container" style="border-radius:8px;background:#62d6674d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#62d667">
-      <p class="dreamsdb infotitle" style="color:var(--color)">Toolbox Helper</p>
+      <img src="./upload/roleToolboxHelper.40.png" loading="lazy" style="height:20px;position:absolute;border-radius:0"><p class="dreamsdb infotitle" style="color:var(--color);margin: 0 0 0 24px">Toolbox Helper</p>
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#62d667</p>
     </a>
-    <div class="home-content-container" style="justify-content:left">
-      <img src="./upload/garoleiconhelper.144.png" loading="lazy">
-    </div>
+    <a class="home-content-container" style="border-radius:8px;background:#7598b94d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#7598b9">
+      <p class="dreamsdb infotitle" style="color:var(--color)">OG</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#7598b9</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#00ff9e4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#00ff9e">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Kewl Kid</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#00ff9e</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#e67e224d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#e67e22">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Ex Staff</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#e67e22</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#1222004d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#122200">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Epic Tester</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#122200</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ccc">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Bot Dev</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#unarchived</p>
+    </a>
   </div>
 </div>
 <div class="changelog-container" style="background:0;padding:0">
@@ -240,6 +257,11 @@ color: '#e1963f'
 <div class="changelog-container" style="background:0;padding:0">
   <h3>April Fools 2021</h3>
   <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">The first time Toolbox changed it's server logo for April Fools.</p>
+    </a>
+  </div>
+  <div>
     <div class="home-content-container" style="justify-content:left">
       <img src="./upload/fools210.144.gif" loading="lazy">
     </div>
@@ -247,6 +269,11 @@ color: '#e1963f'
 </div>
 <div class="changelog-container" style="background:0;padding:0">
   <h3>2021 Level Roles</h3>
+  <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">GOD role was earned by reaching level 100, but has since been removed.</p>
+    </a>
+  </div>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#9494944d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#949494">
       <p class="dreamsdb infotitle" style="color:var(--color)">Common</p>
@@ -271,6 +298,10 @@ color: '#e1963f'
     <a class="home-content-container" style="border-radius:8px;background:#e735004d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#e73500">
       <p class="dreamsdb infotitle" style="color:var(--color)">Mythic</p>
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#e73500</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ccc">
+      <p class="dreamsdb infotitle" style="color:var(--color)">GOD</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#unarchived</p>
     </a>
   </div>
 </div>
@@ -371,6 +402,11 @@ color: '#e1963f'
 </div>
 <div class="changelog-container" style="background:0;padding:0">
   <h3>Toolbox 2020</h3>
+  <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">This banner was an earlier revision than what was finally used in 2020. Unfortunately, no clear images appear to exist of it, or if they did cannot be located now.</p>
+    </a>
+  </div>
   <div>
     <div class="home-content-container" style="justify-content:left">
       <img src="./upload/tb200.144.png" loading="lazy">
