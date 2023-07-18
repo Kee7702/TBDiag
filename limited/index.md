@@ -13,11 +13,6 @@ color: '#e1963f'
 <div class="changelog-container" style="background:0;padding:0">
   <h3>General Archives</h3>
   <div>
-    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
-      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">Uncategorized roles and icons. I have no idea where else to put these.</p>
-    </a>
-  </div>
-  <div>
     <a class="home-content-container" style="border-radius:8px;background:#00bc884d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#00bc88">
       <p class="dreamsdb infotitle" style="color:var(--color)">VIP</p>
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#00bc88</p>
@@ -54,11 +49,6 @@ color: '#e1963f'
 </div>
 <div class="changelog-container" style="background:0;padding:0">
   <h3>Toolbox Events</h3>
-  <div>
-    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
-      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">Toolbox hosts Minecraft events sometimes, often with a temporary role as a reward.</p>
-    </a>
-  </div>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#e74c3c4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#e74c3c">
       <p class="dreamsdb infotitle" style="color:var(--color)">Lava Rising Champion</p>
@@ -135,11 +125,6 @@ color: '#e1963f'
 </div>
 <div class="changelog-container" style="background:0;padding:0">
   <h3>2023 Color Roles</h3>
-  <div>
-    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
-      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">The choice of color wasn't a bad idea, so it returns to Toolbox.</p>
-    </a>
-  </div>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#4e4d4e4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#4e4d4e">
       <p class="dreamsdb infotitle" style="color:var(--color)">Oreo Cookies</p>
