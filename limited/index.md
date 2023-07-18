@@ -5,6 +5,11 @@ description: The Official Toolbox Discord has had many roles and assets, whether
 color: '#e1963f'
 ---
 ## Toolbox Archived Media
+<div>
+  <a class="home-content-container" style="border-radius:8px;background: #62d6674d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #62d667;">
+    <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">This archive incomplete, and unofficial. This archival project has not been endorsed by the Toolbox Council.</p>
+  </a>
+</div>
 <div class="changelog-container" style="background:0;padding:0">
   <h3>General Archives</h3>
   <div>
@@ -106,6 +111,79 @@ color: '#e1963f'
     <div class="home-content-container" style="justify-content:left">
       <img src="./upload/pride231.144.png" loading="lazy">
     </div>
+  </div>
+</div>
+<div class="changelog-container" style="background:0;padding:0">
+  <h3>2023 Color Roles</h3>
+  <div>
+    <a class="home-content-container" style="border-radius:8px;background:#4e4d4e4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#4e4d4e">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Oreo Cookies</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#4e4d4e</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#eeeeee4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#eee">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Classic Marshmellows</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#eeeeee</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#ff72724d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ff7272">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Strawberry Wafers</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#ff7272</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#ffac434d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ffac43">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Orange Creamsicles</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#ffac43</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#f2ff764d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#f2ff76">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Buttery Popcorn</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#f2ff76</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#94ff904d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#94ff90">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Lime Sherbert</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#94ff90</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#92f7ff4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#92f7ff">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Cotton Candy</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#92f7ff</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#6ba0ff4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#6ba0ff">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Blueberry Muffin</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#6ba0ff</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#bb8dff4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#bb8dff">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Grape Kool-Aid</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#bb8dff</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#fda4ff4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#fda4ff">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Pink Starburst</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#fda4ff</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#ff006f4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ff006f">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Sweet Kiss</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#ff006f</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#ec3e2f4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ec3e2f">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Phoenix Flame</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#ec3e2f</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#ffc3004d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ffc300">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Golden Lightbringer</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#ffc300</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#8eff004d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#8eff00">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Toxic Waste</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#8eff00</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#00ff9e4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#00ff9e">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Kewl Kolor</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#00ff9e</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#00acff4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#00acff">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Oceanic Waves</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#00acff</p>
+    </a>
+    <a class="home-content-container" style="border-radius:8px;background:#ab2ff14d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ab2ff1">
+      <p class="dreamsdb infotitle" style="color:var(--color)">Majestic Aegis</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#ab2ff1</p>
+    </a>
   </div>
 </div>
 <div class="changelog-container" style="background:0;padding:0">
@@ -306,7 +384,7 @@ color: '#e1963f'
   </div>
 </div>
 <div class="changelog-container" style="background:0;padding:0">
-  <h3>Staff Colored Roles</h3>
+  <h3>2020 Staff Color Roles</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#2ed6764d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#2ed676">
       <p class="dreamsdb infotitle" style="color:var(--color)">STAFF Matrix Green</p>
@@ -351,7 +429,7 @@ color: '#e1963f'
   </div>
 </div>
 <div class="changelog-container" style="background:0;padding:0">
-  <h3>Colored Roles</h3>
+  <h3>2020 Color Roles</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#e66c6c4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#e66c6c">
       <p class="dreamsdb infotitle" style="color:var(--color)">Pastel Red</p>
