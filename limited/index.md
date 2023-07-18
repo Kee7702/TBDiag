@@ -13,6 +13,11 @@ color: '#e1963f'
 <div class="changelog-container" style="background:0;padding:0">
   <h3>General Archives</h3>
   <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">Uncategorized roles and icons. I have no idea where else to put these.</p>
+    </a>
+  </div>
+  <div>
     <a class="home-content-container" style="border-radius:8px;background:#00bc884d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#00bc88">
       <p class="dreamsdb infotitle" style="color:var(--color)">VIP</p>
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#00bc88</p>
@@ -50,6 +55,11 @@ color: '#e1963f'
 <div class="changelog-container" style="background:0;padding:0">
   <h3>Toolbox Events</h3>
   <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">Toolbox hosts Minecraft events sometimes, often with a temporary role as a reward.</p>
+    </a>
+  </div>
+  <div>
     <a class="home-content-container" style="border-radius:8px;background:#e74c3c4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#e74c3c">
       <p class="dreamsdb infotitle" style="color:var(--color)">Lava Rising Champion</p>
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#e74c3c</p>
@@ -78,6 +88,11 @@ color: '#e1963f'
 </div>
 <div class="changelog-container" style="background:0;padding:0">
   <h3>2023 Level Roles</h3>
+  <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">Reintroduction of the 2022 ranking system after prior changes in 2023 were disliked by many.</p>
+    </a>
+  </div>
   <div>
     <a class="home-content-container" style="border-radius:8px;background: #85684a4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color: #85684a;">
       <p class="dreamsdb infotitle" style="color:var(--color)">Wood</p>
@@ -108,6 +123,11 @@ color: '#e1963f'
 <div class="changelog-container" style="background:0;padding:0">
   <h3>Pride Month 2023</h3>
   <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">The first time Toolbox celebrated Pride Month.</p>
+    </a>
+  </div>
+  <div>
     <div class="home-content-container" style="justify-content:left">
       <img src="./upload/pride231.144.png" loading="lazy">
     </div>
@@ -115,6 +135,11 @@ color: '#e1963f'
 </div>
 <div class="changelog-container" style="background:0;padding:0">
   <h3>2023 Color Roles</h3>
+  <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">The choice of color wasn't a bad idea, so it returns to Toolbox.</p>
+    </a>
+  </div>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#4e4d4e4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#4e4d4e">
       <p class="dreamsdb infotitle" style="color:var(--color)">Oreo Cookies</p>
@@ -226,6 +251,11 @@ color: '#e1963f'
 <div class="changelog-container" style="background:0;padding:0">
   <h3>Halloween 2022</h3>
   <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">The first time Toolbox celebrated Halloween.</p>
+    </a>
+  </div>
+  <div>
     <a class="home-content-container" style="border-radius:8px;background:#ff7d254d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ff7d25">
       <p class="dreamsdb infotitle" style="color:var(--color)">Pumpkin Orange</p>
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#ff7d25</p>
@@ -280,6 +310,11 @@ color: '#e1963f'
 <div class="changelog-container" style="background:0;padding:0">
   <h3>Toolbox 2022</h3>
   <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">Toolbox forced to change branding due to false claim of a stolen icon.</p>
+    </a>
+  </div>
+  <div>
     <div class="home-content-container" style="justify-content:left">
       <img src="./upload/tb220.144.png" loading="lazy">
       <img src="./upload/tb221.144.png" loading="lazy">
@@ -288,6 +323,11 @@ color: '#e1963f'
 </div>
 <div class="changelog-container" style="background:0;padding:0">
   <h3>Christmas 2021</h3>
+  <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">The first time Toolbox celebrated Christmas.</p>
+    </a>
+  </div>
   <div>
     <a class="home-content-container" style="border-radius:8px;background:#ffffff4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ffffff">
       <p class="dreamsdb infotitle" style="color:var(--color)">Silver Snowman</p>
@@ -314,6 +354,11 @@ color: '#e1963f'
 <div class="changelog-container" style="background:0;padding:0">
   <h3>50k Event Roles</h3>
   <div>
+    <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">50k members is quite a huge milestone for any Discord server. Toolbox staff chose to celebrate with Toolbox-colored roles!</p>
+    </a>
+  </div>
+  <div>
     <a class="home-content-container" style="border-radius:8px;background:#51e8cb4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#51e8cb">
       <p class="dreamsdb infotitle" style="color:var(--color)">Toolbox Teal</p>
       <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#51e8cb</p>
@@ -336,7 +381,7 @@ color: '#e1963f'
   <h3>April Fools 2021</h3>
   <div>
     <a class="home-content-container" style="border-radius:8px;background: #cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #ccc;">
-      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">The first time Toolbox changed it's server logo for April Fools.</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">The only time Toolbox changed it's server logo for April Fools.</p>
     </a>
   </div>
   <div>
