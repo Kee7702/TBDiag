@@ -2,7 +2,7 @@
 image: '/limited/upload/tb211.png'
 headInsert: '<meta name="twitter:card" content="summary_large_image">'
 description: The Official Toolbox Discord has had many roles and assets, whether that be seasonal or to celebrate important milestones. It's likely that none of these colors would ever be known again without archival.
-color: '#e1963f'
+theme_color: '#e1963f'
 ---
 ## Toolbox Archived Media
 <div>
