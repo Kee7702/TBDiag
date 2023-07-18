@@ -43,7 +43,7 @@ color: '#e1963f'
     </a>
     <a class="home-content-container" style="border-radius:8px;background:#cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ccc">
       <p class="dreamsdb infotitle" style="color:var(--color)">Bot Dev</p>
-      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#unarchived</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">Unarchived</p>
     </a>
   </div>
 </div>
@@ -409,7 +409,7 @@ color: '#e1963f'
     </a>
     <a class="home-content-container" style="border-radius:8px;background:#cccccc4d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;--color:#ccc">
       <p class="dreamsdb infotitle" style="color:var(--color)">GOD</p>
-      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">#unarchived</p>
+      <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0;color:var(--color)">Unarchived</p>
     </a>
   </div>
 </div>
