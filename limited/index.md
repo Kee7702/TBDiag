@@ -7,7 +7,7 @@ color: '#e1963f'
 ## Toolbox Archived Media
 <div>
   <a class="home-content-container" style="border-radius:8px;background: #62d6674d;padding:8px;color:#ccc;display:inline-block;margin:4px;line-height:0;border: 1px solid #62d667;">
-    <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">This archive incomplete, and unofficial. This archival project has not been endorsed by the Toolbox Council.</p>
+    <p class="dreamsdb infostats" style="display:block;line-height:16px;margin:0">This archive is incomplete, and unofficial. Not endorsed by Toolbox.</p>
   </a>
 </div>
 <div class="changelog-container" style="background:0;padding:0">
